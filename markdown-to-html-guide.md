@@ -16,7 +16,6 @@
 
 Converting Markdown to HTML is a common requirement in modern web development and documentation workflows. This guide will walk you through creating a Python script that automates this conversion process, handling everything from basic Markdown syntax to images and nested directories.
 
-![Markdown to HTML Conversion Flow](conversion-flow.png)
 
 ## Prerequisites
 
